@@ -1,0 +1,220 @@
+{
+  "menu": [
+    {
+      "category": "Entrantes",
+      "subtitle": "Para abrir boca",
+      "image": "/images/image-dish_incoming.webp",
+      "items": [
+        {
+          "name": "Pimientos del Piquillo Rellenos",
+          "price": 14,
+          "currency": "€",
+          "description": "Rellenos de brandada de bacalao y gratinados al horno.",
+          "allergens": ["Pescado", "Lácteos", "Gluten"]
+        },
+        {
+          "name": "Morcilla de Burgos a la Brasa",
+          "price": 12,
+          "currency": "€",
+          "description": "Morcilla asada sobre cama de pimientos asados.",
+          "allergens": ["Gluten"]
+        },
+        {
+          "name": "Croquetas de Rabo de Toro",
+          "price": 13,
+          "currency": "€",
+          "description": "Bechamel intensa, rabo estofado 8 horas, pan rallado crujiente.",
+          "allergens": ["Gluten", "Lácteos", "Huevo"]
+        },
+        {
+          "name": "Ensalada de Cogollos",
+          "price": 11,
+          "currency": "€",
+          "description": "Cogollos de Tudela, anchoas del Cantábrico y vinagreta de mostaza.",
+          "allergens": ["Pescado"]
+        },
+        {
+          "name": "Jamón Ibérico de Bellota",
+          "price": 22,
+          "currency": "€",
+          "description": "Cortado a cuchillo, D.O. Guijuelo, 5 jotas.",
+          "allergens": []
+        },
+        {
+          "name": "Revuelto de Setas y Trufa",
+          "price": 16,
+          "currency": "€",
+          "description": "Huevos de corral, setas de temporada y aceite de trufa negra.",
+          "allergens": ["Huevo", "Lácteos"]
+        }
+      ]
+    },
+    {
+      "category": "Carnes",
+      "subtitle": "El corazón del asador",
+      "image": "/images/image-meat.webp",
+      "items": [
+        {
+          "name": "Chuletón de Rubia Gallega",
+          "price": 65,
+          "priceUnit": "kg",
+          "currency": "€",
+          "description": "Madurado 45 días, brasa de encina. Mínimo 1kg.",
+          "allergens": []
+        },
+        {
+          "name": "Solomillo de Buey",
+          "price": 58,
+          "currency": "€",
+          "description": "Pieza entera a la brasa, punto según tu gusto.",
+          "allergens": []
+        },
+        {
+          "name": "Cordero Lechal al Horno",
+          "price": 32,
+          "currency": "€",
+          "description": "Lechazo de Castilla, asado en horno de leña 4 horas.",
+          "allergens": []
+        },
+        {
+          "name": "Cochinillo Segoviano",
+          "price": 28,
+          "currency": "€",
+          "description": "Tostón confitado, piel crujiente, al estilo Cándido.",
+          "allergens": []
+        },
+        {
+          "name": "Costillar de Cerdo Ibérico",
+          "price": 26,
+          "currency": "€",
+          "description": "Adobado en hierbas, brasa lenta 3 horas.",
+          "allergens": []
+        },
+        {
+          "name": "Entrecot de Vaca Vieja",
+          "price": 38,
+          "currency": "€",
+          "description": "Vaca de más de 8 años, grasa infiltrada, brasa de sarmiento.",
+          "allergens": []
+        }
+      ]
+    },
+    {
+      "category": "Pescados",
+      "subtitle": "Del mar a la brasa",
+      "image": "/images/image-fish.webp",
+      "items": [
+        {
+          "name": "Lubina Salvaje a la Brasa",
+          "price": 36,
+          "currency": "€",
+          "description": "Pieza entera, aceite de oliva virgen y sal gruesa.",
+          "allergens": ["Pescado"]
+        },
+        {
+          "name": "Rodaballo al Horno",
+          "price": 42,
+          "currency": "€",
+          "description": "Salvaje del Atlántico, patatas panadera y refrito de ajo.",
+          "allergens": ["Pescado"]
+        },
+        {
+          "name": "Kokotxas de Bacalao al Pil-Pil",
+          "price": 28,
+          "currency": "€",
+          "description": "Bacalao desalado en casa, salsa pil-pil tradicional.",
+          "allergens": ["Pescado"]
+        },
+        {
+          "name": "Gambas Rojas a la Brasa",
+          "price": 24,
+          "currency": "€",
+          "description": "Gamba roja de Dénia, sal y limón. Nada más.",
+          "allergens": ["Crustáceos"]
+        }
+      ]
+    },
+    {
+      "category": "Postres",
+      "subtitle": "Para cerrar",
+      "image": "/images/image-dessert.webp",
+      "items": [
+        {
+          "name": "Torrija Caramelizada",
+          "price": 8,
+          "currency": "€",
+          "description": "Pan de leche, crema inglesa y helado de vainilla.",
+          "allergens": ["Gluten", "Lácteos", "Huevo"]
+        },
+        {
+          "name": "Cuajada con Miel de Romero",
+          "price": 7,
+          "currency": "€",
+          "description": "Cuajada artesanal, miel de la sierra y nueces.",
+          "allergens": ["Lácteos", "Frutos Secos"]
+        },
+        {
+          "name": "Tarta de Queso al Horno",
+          "price": 9,
+          "currency": "€",
+          "description": "Estilo San Sebastián, cremosa y temblorosa.",
+          "allergens": ["Lácteos", "Gluten", "Huevo"]
+        },
+        {
+          "name": "Helado Artesano",
+          "price": 6,
+          "currency": "€",
+          "description": "Vainilla de Madagascar, chocolate negro 70% o turrón.",
+          "allergens": ["Lácteos"]
+        }
+      ]
+    },
+    {
+      "category": "Bebidas",
+      "subtitle": "Para acompañar",
+      "image": "/images/image-drinks.webp",
+      "items": [
+        {
+          "name": "Ribera del Duero Reserva",
+          "price": 14,
+          "priceUnit": "copa",
+          "currency": "€",
+          "description": "Tempranillo, 18 meses en barrica.",
+          "allergens": []
+        },
+        {
+          "name": "Rioja Gran Reserva",
+          "price": 18,
+          "priceUnit": "copa",
+          "currency": "€",
+          "description": "Garnacha y Tempranillo, elegancia clásica.",
+          "allergens": []
+        },
+        {
+          "name": "Txakoli",
+          "price": 8,
+          "priceUnit": "copa",
+          "currency": "€",
+          "description": "Blanco vasco, fresco y ligeramente espumoso.",
+          "allergens": []
+        },
+        {
+          "name": "Agua Mineral",
+          "price": 3,
+          "currency": "€",
+          "description": "Bezoya, 500ml.",
+          "allergens": []
+        },
+        {
+          "name": "Café Solo",
+          "price": 2,
+          "currency": "€",
+          "description": "Blend de origen, tostado artesanal.",
+          "allergens": []
+        }
+      ]
+    }
+  ]
+}
+
+
