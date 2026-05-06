@@ -22,14 +22,14 @@ export default function Home() {
                               <TitleMenu />
                         </section>
 
-                        <section className=" flex flex-wrap justify-center gap-2 pb-6 ">
+                        <section className=" flex flex-wrap justify-center  pb-6 ">
                               {menuData.menu.map((category) => (
                                     <section key={category.category} className=" flex  ">
                                           <Nav categories={category.category} />
                                     </section>
                               ))}
                         </section>
-                        <section className=" py-12 ">
+                        <section className=" py-24 ">
                               {menuData.menu.map((categories) => (
                                     <section
                                           id={categories.category}
